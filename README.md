@@ -52,3 +52,20 @@ Poruszone zagadnienia:
 * Implementacja  algorytmu de Casteljau do rysowania krzywej Bezier'a. Algorytm ten dzieli krzywą na mniejsze segmenty i oblicza współrzędne punktów na tych segmentach.
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/3.%20Krzywe%20Beziera/demo.gif)
+
+## 4. Krzywe B-sklejane
+
+Opis:
+
+Ten projekt demonstruje rysowanie krzywych B-spline w aplikacji Qt.
+
+Funkcjonalność:
+* Dodawanie punktów kontrolnych: Kliknięcie lewym przyciskiem myszy w dowolnym miejscu okna aplikacji.
+* Usuwanie punktów kontrolnych: Kliknięcie prawym przyciskiem myszy na punkt kontrolny.
+* Przesuwanie punktów kontrolnych: Kliknięcie środkowym przyciskiem myszy na punkt kontrolny i przeciąganie myszą.
+* Zmiana liczby odcinków: Przesuwanie suwaka.
+* Włączanie/wyłączenie rysowania odcinków łączących punkty kontrolne: Kliknięcie przycisku "Pokaż odcinki".
+
+
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/4.%20B-Sklejane/demo.gif)
