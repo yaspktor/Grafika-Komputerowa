@@ -69,3 +69,19 @@ Funkcjonalność:
 
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/4.%20B-Sklejane/demo.gif)
+
+## 5. Flood Fill
+
+Opis:
+Ten projekt demonstruje algorytm Flood Fill, zaimplementowany w aplikacji graficznej Qt. Użytkownik może rysować linie i koła na obrazie, a także wypełniać obszary kolorem za pomocą funkcji Flood Fill.
+
+Funkcjonalność:
+* Rysowanie linii: Lewy przycisk myszy + przeciąganie myszy
+* Rysowanie koła: Środkowy przycisk myszy + przeciąganie myszy
+* Wypełnianie kolorem: Kliknięcie prawym przyciskiem myszy
+
+Poruszone zagadnienia:
+* Implementacja algorytmu Flood Fill
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/5.%20Flood%20Fill/demo.gif)
+
