@@ -109,3 +109,11 @@ Opis:
 Ten projekt prezentuje implementację algorytmu Alpha Blending w aplikacji graficznej Qt. Użytkownik może blendować ze sobą kilka obrazów jednocześnie, regulując wartość współczynnika alpha oraz wybierając tryb mieszania kolorów.
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/8.%20Alpha%20blending/demo.gif)
+
+
+## 9. Operacje morfologiczne
+
+Opis:
+Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na wykonywanie operacji morfologicznych na obrazach. Aplikacja posiada takie funkcje jak dylatacja, erozja, domknięcie i otwarcie.
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/8.%20Operacje%20morfologiczne/demo.gif)
