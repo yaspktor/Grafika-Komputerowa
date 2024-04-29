@@ -51,4 +51,4 @@ Funkcjonalność:
 Poruszone zagadnienia:
 * Implementacja  algorytmu de Casteljau do rysowania krzywej Bezier'a. Algorytm ten dzieli krzywą na mniejsze segmenty i oblicza współrzędne punktów na tych segmentach.
 
-![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/2.%20Koło%20Elipsa/demo.gif)
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/3.%20Krzywe%20Beziera/demo.gif)
