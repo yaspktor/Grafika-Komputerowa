@@ -85,3 +85,19 @@ Poruszone zagadnienia:
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/5.%20Flood%20fill/demo.gif)
 
+## 6. Scan Line
+
+Opis:
+Ten projekt demonstruje algorytm Scan Line, zaimplementowany w aplikacji graficznej Qt. Użytkownik może rysować linie i koła na obrazie, a także wypełniać obszary kolorem za pomocą funkcji Scan Line.
+Reszta analogicznie jak w projekcie Flood Fill.
+
+## 7. Modele barw
+
+Opis:
+Ten projekt prezentuje implementację modeli barw RGB i HSV w aplikacji graficznej Qt. Użytkownik może sterować kolorami pikseli na 
+obrazie za pomocą suwaków, które regulują wartości składowych RGB lub parametrów HSV.
+
+Rysowanie sześcianów barw: Do rysowania sześcianów barwnych używana jest funkcja `rysujSzescian`, która przyjmuje jako argumenty wartości RGB lub HSV. Funkcja oblicza kolory pikseli na podstawie położenia piksela w sześcianie i rysuje je na obrazie.
+Konwersja między modelami barw: Do konwersji między modelami RGB i HSV wykorzystywana jest funkcja `HSVtRGB` i `RGBtHSV`. Funkcje te opierają się na standardowych wzorach matematycznych.
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/5.%20Modele%20barw/demo.gif
