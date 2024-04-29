@@ -116,4 +116,4 @@ Ten projekt prezentuje implementację algorytmu Alpha Blending w aplikacji grafi
 Opis:
 Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na wykonywanie operacji morfologicznych na obrazach. Aplikacja posiada takie funkcje jak dylatacja, erozja, domknięcie i otwarcie.
 
-![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/8.%20Operacje%20morfologiczne/demo.gif)
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/9.%20Operacje%20morfologiczne/demo.gif)
