@@ -83,5 +83,5 @@ Funkcjonalność:
 Poruszone zagadnienia:
 * Implementacja algorytmu Flood Fill
 
-![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/5.%20Flood%20Fill/demo.gif)
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/5.%20Flood%20fill/demo.gif)
 
