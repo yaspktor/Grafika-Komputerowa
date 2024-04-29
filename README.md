@@ -137,4 +137,4 @@ Funkcjonalność:
 Opis:
 Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na narysowanie trójkąta, a następnie nałożenie na niego tekstury. 
 
-![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/10.%20Teksturowanie%20trójkątów/demo.gif)
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/11.%20Teksturowanie%20trójkątów/demo.gif)
