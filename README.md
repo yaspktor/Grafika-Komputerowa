@@ -101,3 +101,11 @@ Rysowanie sześcianów barw: Do rysowania sześcianów barwnych używana jest fu
 Konwersja między modelami barw: Do konwersji między modelami RGB i HSV wykorzystywana jest funkcja `HSVtRGB` i `RGBtHSV`. Funkcje te opierają się na standardowych wzorach matematycznych.
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/7.%20Modele%20barw/demo.gif)
+
+
+## 8. Alpha blending
+
+Opis:
+Ten projekt prezentuje implementację algorytmu Alpha Blending w aplikacji graficznej Qt. Użytkownik może blendować ze sobą kilka obrazów jednocześnie, regulując wartość współczynnika alpha oraz wybierając tryb mieszania kolorów.
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/8.%20Alpha%20blending/demo.gif)
