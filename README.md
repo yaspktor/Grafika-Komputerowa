@@ -117,3 +117,17 @@ Opis:
 Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na wykonywanie operacji morfologicznych na obrazach. Aplikacja posiada takie funkcje jak dylatacja, erozja, domknięcie i otwarcie.
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/9.%20Operacje%20morfologiczne/demo.gif)
+
+## 10. Przekształcenia geometryczne 2D
+
+Opis:
+Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na wykonywanie przekształceń geometrycznych 2D na obrazku.
+
+Funkcjonalność:
+* Translacja: Umożliwia przesuwanie obrazu w poziomie i pionie za pomocą dwóch suwaków reprezentujących przesunięcie w osiach X i Y.
+* Skalowanie: Umożliwia zmianę rozmiaru obrazu za pomocą suwaków reprezentujących skalowanie w osiach X i Y.
+* Obrót: Umożliwia obracanie obrazu o dowolny kąt za pomocą suwaka.
+* Pochylenie: Funkcja pochylenia obrazu w osiach X i Y.
+* Interpolacja Dwuliniowa: Opcja wyboru interpolacji dwuliniowej, która poprawia jakość obrazu po przekształceniach.
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/10.%20Przekształcenia%20geometryczne%202D/demo.gif)
