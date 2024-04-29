@@ -131,3 +131,10 @@ Funkcjonalność:
 * Interpolacja Dwuliniowa: Opcja wyboru interpolacji dwuliniowej, która poprawia jakość obrazu po przekształceniach.
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/10.%20Przekształcenia%20geometryczne%202D/demo.gif)
+
+## 11. Teksturowanie trójkątów
+
+Opis:
+Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na narysowanie trójkąta, a następnie nałożenie na niego tekstury. 
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/10.%20Teksturowanie%20trójkątów/demo.gif)
