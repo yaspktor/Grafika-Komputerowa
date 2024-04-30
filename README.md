@@ -138,3 +138,17 @@ Opis:
 Projekt ten implementuje aplikację graficzną, która pozwala użytkownikowi na narysowanie trójkąta, a następnie nałożenie na niego tekstury. 
 
 ![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/11.%20Teksturowanie%20trójkątów/demo.gif)
+
+## 12. Morphing
+
+Opis:
+Ten projekt demonstruje technikę morphingu obrazu, czyli płynnego przechodzenia między dwoma obrazami. Użytkownik może wybrać dwa trójkątne fragmenty obrazków a następnie wyświetlić animację morphingu między nimi.
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/12.%20Morphing/demo.gif)
+
+## 13. Przekształcenia geometryczne 3D
+
+Opis:
+Projekt ten to aplikacja graficzna, która pozwala na manipulację obiektami 3D. Użytkownik może obracać obiekty wokół osi X, Y i Z, przesuwać je oraz zmieniać ich rozmiar. Oprócz tego w aplikacji zostały zaimplementowane algorytmy do teksturowania obiektów 3D, oświetlania oraz cieniowania.
+
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/13.%20Przekształcenia%20geometryczne%203D/demo.gif)
