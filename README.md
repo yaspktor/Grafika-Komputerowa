@@ -151,4 +151,4 @@ Ten projekt demonstruje technikę morphingu obrazu, czyli płynnego przechodzeni
 Opis:
 Projekt ten to aplikacja graficzna, która pozwala na manipulację obiektami 3D. Użytkownik może obracać obiekty wokół osi X, Y i Z, przesuwać je oraz zmieniać ich rozmiar. Oprócz tego w aplikacji zostały zaimplementowane algorytmy do teksturowania obiektów 3D, oświetlania oraz cieniowania.
 
-![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/13.%20Przekształcenia%20geometryczne%203D/demo.gif)
+![Demo](https://github.com/yaspktor/Grafika-Komputerowa/blob/main/13.%20Przekształcenia%20geometryczne%20w%20przestrzeni%203D/demo.gif)
